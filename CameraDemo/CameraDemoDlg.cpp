@@ -134,7 +134,7 @@ void CCameraDemoDlg::OnSysCommand(UINT nID, LPARAM lParam)
 	}
 	else
 	{
-		CDialogEx::OnSysCommand(nID, lParam);
+		CDialogEx::OnSysCommand(nID, lParam); 
 	}
 }
 
