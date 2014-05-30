@@ -8,6 +8,8 @@
 #include "afxdialogex.h"
 #include <afxpriv.h>
 
+// test check-in
+
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
